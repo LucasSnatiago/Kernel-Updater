@@ -65,5 +65,5 @@ If you want to translate to your language. Make a pull request for me :P, you'll
 
 Por-favor teste o código primeiro!
 
-## Licensa
+## Licença
 [GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/)
