@@ -59,6 +59,8 @@ Deseja que eu instale a Kernel para você?
 
 ## Contribuir
 ```Pull requests``` são bem-vindos. Para mudanças grandes, por-favor abra um ```issue``` primeiro para ser discutido.
+
+
 If you want to translate to your language. Make a pull request for me :P, you'll be always welcome.
 
 Por-favor teste o código primeiro!
