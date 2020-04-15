@@ -23,7 +23,7 @@ SSH:
 ```md
 $ git clone git@github.com:lusantisuper/Kernel-Updater.git
 ```
-
+ou rode direto no terminal sem necessidade de downloads:
 ```md
 $ curl -s https://raw.githubusercontent.com/lusantisuper/Kernel-Updater/master/KernelUpdater.sh\
 > /tmp/KernelUpdater.sh ; bash /tmp/KernelUpdater.sh
